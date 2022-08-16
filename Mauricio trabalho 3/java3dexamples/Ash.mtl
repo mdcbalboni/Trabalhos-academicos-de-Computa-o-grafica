@@ -1,0 +1,193 @@
+# File produced by 
+
+newmtl obj0
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 0.502 0.2471
+  Ka 1.0 0.502 0.2471
+  Ks 0.1098 0.0549 0.0275
+
+newmtl obj0_01
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 0 0.502 1.0
+  Ka 0 0.502 1.0
+  Ks 0 0.502 1.0
+
+newmtl obj0_02
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 0 0.4588 0.9137
+  Ka 0 0.4588 0.9137
+  Ks 0 0.0471 0.098
+
+newmtl obj0_03
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 0.749 0.749 0.749
+  Ka 0.749 0.749 0.749
+  Ks 0.749 0.749 0.749
+
+newmtl obj0_04
+  Ns 44.18
+  d 1.0
+  illum 2
+  Kd 0 0.502 1.0
+  Ka 0 0.502 1.0
+  Ks 0 0.298 0.6
+
+newmtl obj0_05
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 0.502 0.2471
+  Ka 1.0 0.502 0.2471
+  Ks 1.0 0.502 0.2471
+
+newmtl obj0_06
+  Ns 26.4
+  d 1.0
+  illum 2
+  Kd 0.7529 0.7529 0.7529
+  Ka 0.1176 0.1176 0.1176
+  Ks 0.7529 0.7529 0.7529
+
+newmtl obj0_07
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 0.502 0.2471
+  Ka 1.0 0.502 0.2471
+  Ks 1.0 0.502 0.2471
+
+newmtl obj0_08
+  Ns 44.18
+  d 1.0
+  illum 2
+  Kd 1.0 0.502 0.2471
+  Ka 1.0 0.502 0.2471
+  Ks 1.0 0.502 0.2471
+
+newmtl obj0_09
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 0 0
+  Ka 1.0 0 0
+  Ks 1.0 0 0
+
+newmtl obj0_10
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 0
+  Ka 1.0 1.0 0
+  Ks 0.5098 0.5098 0
+
+newmtl obj0_11
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 0
+  Ka 1.0 1.0 0
+  Ks 1.0 1.0 0
+
+newmtl obj0_12
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 0
+  Ka 1.0 1.0 0
+  Ks 1.0 1.0 0
+
+newmtl obj0_13
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 0 0
+  Ka 1.0 0 0
+  Ks 1.0 0 0
+
+newmtl obj0_14
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 0 0
+  Ka 1.0 0 0
+  Ks 0.098 0 0
+
+newmtl obj0_15
+  Ns 44.18
+  d 1.0
+  illum 2
+  Kd 1.0 0 0
+  Ka 1.0 0 0
+  Ks 1.0 0 0
+
+newmtl obj0_16
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 0 0
+  Ka 1.0 0 0
+  Ks 0.0863 0 0
+
+newmtl obj0_17
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 0.502 0.502 0.749
+  Ka 0.502 0.502 0.749
+  Ks 0.502 0.502 0.749
+
+newmtl obj0_18
+  Ns 36.56
+  d 1.0
+  illum 2
+  Kd 1.0 0.502 0.2471
+  Ka 1.0 0.502 0.2471
+  Ks 1.0 0.502 0.2471
+
+newmtl obj0_19
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 0.502 0 0.2471
+  Ka 0.502 0 0.2471
+  Ks 0.502 0 0.2471
+
+newmtl obj0_20
+  Ns 36.56
+  d 1.0
+  illum 2
+  Kd 0.502 0 0.2471
+  Ka 0.502 0 0.2471
+  Ks 0.502 0 0.2471
+
+newmtl obj0_21
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 0.749 0.749 0.749
+  Ka 0.749 0.749 0.749
+  Ks 0.4275 0.4275 0.4275
+
+newmtl obj0_22
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 0.749 0.749 0.749
+  Ka 0.749 0.749 0.749
+  Ks 0.4275 0.4275 0.4275
+
+newmtl obj0_23
+  Ns 55.61
+  d 1.0
+  illum 2
+  Kd 1.0 0.502 0.2471
+  Ka 1.0 0.502 0.2471
+  Ks 1.0 0.502 0.2471

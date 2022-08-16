@@ -1,0 +1,65 @@
+# File produced by 
+
+newmtl Arms
+  Ns 58.15
+  d 1.0
+  illum 2
+  Kd 0 0.4941 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Body
+  Ns 58.15
+  d 1.0
+  illum 2
+  Kd 0 0.4941 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Head
+  Ns 58.15
+  d 1.0
+  illum 2
+  Kd 0 0.4941 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Head_1
+  Ns 58.15
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Head_2
+  Ns 110.22
+  d 1.0
+  illum 2
+  Kd 1.0 0.1647 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Legs
+  Ns 58.15
+  d 1.0
+  illum 2
+  Kd 0 0.4941 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Wing
+  Ns 55.61
+  d 0.17
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
+
+newmtl Wing01
+  Ns 55.61
+  d 0.17
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.9686 0.9686 0.9686
